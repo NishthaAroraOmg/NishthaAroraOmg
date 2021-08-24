@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on my new game.
 - 📫 How to reach me with my email.
+- 
 
 <!---
 NishthaAroraOmg/NishthaAroraOmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
